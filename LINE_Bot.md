@@ -8,6 +8,12 @@
 APIリファレンスなど
 - https://developers.line.me/bot-api/overview
 
+さっそくなんか作ってる人がいた、って案の定ますいさんかｗ
+- http://qiita.com/masuidrive/items/1042d93740a7a72242a3
+
+
+
+
 ## メモ
 - BOTはユーザからのメッセージをLINE Platformをプロキシにして自分で立てたサーバで受け取って、同様にメッセージを返す感じで動く
 - アクセスはHTTPS
