@@ -32,3 +32,10 @@ Let's Encrypt で手軽に HTTPS サーバを設定する
 
 Let's EncryptとnginxでHTTP/2サーバを立てる
 - http://inside.pixiv.net/entry/2015/12/10/153114
+
+独自ドメインが使えないことを除けばHerokuで運用できそうな気がする
+- http://blog.deraru.com/post/76779981593/herokuでsslを使う3つの方法
+- http://qiita.com/yuya_takeyama/items/0660a59d13e2cd0b2516#_reference-edae6ffa45aab9afe857
+
+
+
