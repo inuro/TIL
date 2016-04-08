@@ -37,5 +37,9 @@ Let's EncryptとnginxでHTTP/2サーバを立てる
 - http://blog.deraru.com/post/76779981593/herokuでsslを使う3つの方法
 - http://qiita.com/yuya_takeyama/items/0660a59d13e2cd0b2516#_reference-edae6ffa45aab9afe857
 
+### つわけでHeroku
+
+Heroku導入メモ
+- https://gist.github.com/konitter/5370904
 
 
