@@ -42,4 +42,9 @@ Let's EncryptとnginxでHTTP/2サーバを立てる
 Heroku導入メモ
 - https://gist.github.com/konitter/5370904
 
+Node.jsのExpressで作ったサーバーをHerokuで動かす
+- http://qiita.com/awakia/items/26eae40afb1c9ad76161
+
+Express 4 をはじめよう
+- http://qiita.com/hoshi-takanori/items/2128a6cf1dbb533379a2
 
