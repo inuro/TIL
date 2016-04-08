@@ -48,3 +48,9 @@ Node.jsのExpressで作ったサーバーをHerokuで動かす
 Express 4 をはじめよう
 - http://qiita.com/hoshi-takanori/items/2128a6cf1dbb533379a2
 
+#### Heroku de Node.jsのハマりどころ
+- 素のExpressでは動かないところがいくつかある。
+  - Portは固定ではなく、環境変数のprocess.env.PORTから取得する必要がある
+  - Procfileが必要
+    - この辺でだいたいいけた https://github.com/herokaijp/devcenter/wiki/Nodejs
+
